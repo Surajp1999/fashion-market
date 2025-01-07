@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/fashion-market.git
+git clone https://github.com/https://github.com/Surajp1999/fashion-market.git
 cd fashion-market
 Install dependencies:
 
